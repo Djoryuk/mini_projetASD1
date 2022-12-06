@@ -1,4 +1,4 @@
-#include <stdio.h>
+
 void permuter(int *a, int *b) {
     int tmp;
     tmp = *a;
